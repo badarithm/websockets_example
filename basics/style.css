@@ -1,0 +1,12 @@
+h1 {
+    color: Blue;
+    text-align: center;
+    font-family: "Helvetica Neue", Arial, Sans-Serif;
+    font-size: 1em;
+}
+
+.message-item {
+    word-wrap: break-word;
+    overflow: hidden;
+    word-break: break-all;
+}
